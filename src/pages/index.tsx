@@ -17,7 +17,7 @@ const Index = () => {
     >
       <a href="https://github.com/SuchitraSwain/nextjs-tailwind-boilerplate">
         <img
-          src={`${router.basePath}/assets/images/nextjs-starter-banner.png`}
+          src={`${router.basePath}/assets/images/nextjs-tailwind-banner.png`}
           alt="Nextjs starter banner"
         />
       </a>

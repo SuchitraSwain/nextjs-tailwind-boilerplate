@@ -50,7 +50,7 @@ Built-in feature from Next.js:
 Run the following command on your local environment:
 
 ```
-git clone --depth=1 https://github.com/ixartz/Next-js-Boilerplate.git my-project-name
+git clone --depth=1 https://github.com/SuchitraSwain/nextjs-tailwind-boilerplate.git my-project-name
 cd my-project-name
 npm install
 ```
@@ -112,7 +112,7 @@ Now, your blog is ready to be deployed. All generated files are located at `out`
 
 Clone this repository on own GitHub account and deploy to Netlify:
 
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ixartz/Next-js-Boilerplate)
+[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/SuchitraSwain/nextjs-tailwind-boilerplate)
 
 ### Deploy to Vercel
 

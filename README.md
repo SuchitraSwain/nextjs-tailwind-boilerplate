@@ -1,12 +1,12 @@
 # Boilerplate and Starter for Next JS 12+, Tailwind CSS 3 and TypeScript
 
 <p align="center">
-  <a href="https://creativedesignsguru.com/demo/Nextjs-Boilerplate/"><img src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Next js starter banner"></a>
+  <a href="https://github.com/SuchitraSwain/nextjs-tailwind-boilerplate"><img src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Next js starter banner"></a>
 </p>
 
 🚀 Boilerplate and Starter for Next.js, Tailwind CSS and TypeScript ⚡️ Made with developer experience first: Next.js, TypeScript, ESLint, Prettier, Husky, Lint-Staged, VSCode, Netlify, PostCSS, Tailwind CSS.
 
-Clone this project and use it to create your own [Next.js](https://nextjs.org) project. You can check a [Next js templates demo](https://creativedesignsguru.com/demo/Nextjs-Boilerplate/).
+Clone this project and use it to create your own [Next.js](https://nextjs.org) project. You can check a [Next js templates demo](https://github.com/SuchitraSwain/nextjs-tailwind-boilerplate).
 
 ### Features
 
